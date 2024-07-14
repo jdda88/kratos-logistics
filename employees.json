@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Miguel Rodriguez",
+    "image": "",
+    "about": "Miguel Rodriguez worked 25 years as a correction officer and then fire fighter for Miami Dade county. Mr. Rodriguez graduated from Florida International University with a master's degree in business administration. He is extremely driven and focused on succeeding. He is obsessed with customer service and delivering smiles everyday. Miguel believes in working hard and playing hard, and his motto is 'ALWAYS STRIVING TO BECOME THE BEST VERSION OF MYSELF THAT I CAN Be'",
+    "position": "Owner/Operator"
+  },
+  {
+    "id": 2,
+    "name": "Nicholas Marrero",
+    "image": "",
+    "about": "",
+    "position": "Operations Manager"
+  },
+  {
+    "id": 3,
+    "name": "Serry Baez",
+    "image": "",
+    "about": "",
+    "position": "Dispatcher"
+  },
+  {
+    "id": 4,
+    "name": "Michael Gonzalez",
+    "image": "",
+    "about": "",
+    "position": "Dispatcher"
+  },
+  {
+    "id": 5,
+    "name": "Alvaro Barrero",
+    "image": "",
+    "about": "",
+    "position": "Fleet Manager"
+  },
+  {
+    "id": 6,
+    "name": "Chad Logan",
+    "image": "",
+    "about": "",
+    "position": "Fleet Manager"
+  }
+]
