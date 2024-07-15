@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "Miguel Rodriguez",
-    "image": "",
+    "image": "https://res.cloudinary.com/dprkq4xne/image/upload/t_square-pics/v1721057173/Kratos%20Logistics/miguel-kratos_hlbbwz.jpg",
     "about": "Miguel Rodriguez worked 25 years as a correction officer and then fire fighter for Miami Dade county. Mr. Rodriguez graduated from Florida International University with a master's degree in business administration. He is extremely driven and focused on succeeding. He is obsessed with customer service and delivering smiles everyday. Miguel believes in working hard and playing hard, and his motto is 'ALWAYS STRIVING TO BECOME THE BEST VERSION OF MYSELF THAT I CAN Be'",
     "position": "Owner/Operator"
   },
   {
     "id": 2,
     "name": "Nicholas Marrero",
-    "image": "",
+    "image": "https://res.cloudinary.com/dprkq4xne/image/upload/t_square-pics/v1721057178/Kratos%20Logistics/nick-kratos_prpd5l.png",
     "about": "",
     "position": "Operations Manager"
   },
   {
     "id": 3,
     "name": "Serry Baez",
-    "image": "",
+    "image": "https://res.cloudinary.com/dprkq4xne/image/upload/t_square-pics/v1721057174/Kratos%20Logistics/sherry-kratos_pgqdvw.png",
     "about": "",
     "position": "Dispatcher"
   },
   {
     "id": 4,
     "name": "Michael Gonzalez",
-    "image": "",
+    "image": "https://res.cloudinary.com/dprkq4xne/image/upload/t_square-pics/v1721057173/Kratos%20Logistics/mike-kratos_rijpqm.jpg",
     "about": "",
     "position": "Dispatcher"
   },

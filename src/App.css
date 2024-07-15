@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+.core-values-card {
+  @apply p-6 bg-gray-200 rounded-lg shadow-xl m-3 text-center flex flex-col flex-wrap items-center justify-center;
+  width: calc(100% - 2rem); /* Adjust the width to be responsive */
+  max-width: 30rem; /* Set a maximum width to prevent overflowing on larger screens */
+  height: auto; /* Let the height adjust based on content */
+}

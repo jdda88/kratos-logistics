@@ -3,21 +3,21 @@ import employees from "../../employees.json";
 
 function TeamLeaders() {
   return (
-    <div>
+    <div className="flex flex-col justify-center items-center min-h-screen m-4">
       {employees.map((employee) => (
         <div
           key={employee.id}
-          className=""
+          className="flex flex-col sm:w-full md:w-3/4 lg:w-2/4 justify-center items-center bg-white shadow-md rounded-lg p-4 m-5"
         >
           <img
             src={employee.image}
             alt={employee.name}
-            className="w-full md:w-1/2 h-48 object-cover rounded-t-lg md:rounded-none"
+            className="object-contain rounded m-4"
           />
-          <div>
-            <h2>{employee.name}</h2>
-            <p>{employee.position}</p>
-            <p>{employee.about}</p>
+          <div className="flex flex-col md:ml-4">
+            <h2 className="text-2xl font-semibold mb-2 text-center">{employee.name}</h2>
+            <p className="text-xl m-2 text-wrap text-center">{employee.position}</p>
+            <p className="text-gray-600 m-2 text-left text-wrap">{employee.about}</p>
           </div>
         </div>
       ))}
