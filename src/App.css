@@ -8,3 +8,10 @@
   max-width: 30rem; /* Set a maximum width to prevent overflowing on larger screens */
   height: auto; /* Let the height adjust based on content */
 }
+
+/* .mission-vision-card{
+  @apply  p-6 bg-slate-50 rounded-lg shadow-xl m-3 text-center flex flex-col flex-wrap items-center justify-center;
+  width: calc(100% - 2rem); 
+  max-width: 30rem; 
+  height: auto; 
+} */

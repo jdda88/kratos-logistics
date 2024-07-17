@@ -9,7 +9,7 @@ import "swiper/css/scrollbar";
 
 function ImageCarousel() {
   return (
-    <div className="flex justify-center items-center ">
+    <div className="flex justify-center items-center">
       <Swiper
         className="w-[81rem] rounded-md "
         modules={[Navigation, Autoplay, Scrollbar, A11y]}

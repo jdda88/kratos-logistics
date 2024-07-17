@@ -117,7 +117,7 @@ function Application() {
           <h3 className="text-2xl font-semibold mb-3 text-center">
             Useful Links
           </h3>
-          <div className="flex flex-wrap justify-center space-x-2 space-y-2 md:space-y-0 md:space-x-4">
+          <div className="flex flex-wrap justify-center space-y-2 md:space-y-0 md:space-x-4">
             <a
               href="https://start.myinterview.com/kratos-logistics/amazon-delivery-associate?unique_id=97afc89c-7778-40a8-b429-4a779660cc89"
               target="_blank"
