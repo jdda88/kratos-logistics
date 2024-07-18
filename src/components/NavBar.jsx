@@ -43,10 +43,10 @@ function NavBar() {
           } md:flex flex-col md:flex-row md:space-x-5 items-center mt-4 md:mt-0`}
         >
           <Link to="/" className="mt-2 md:mt-0">
-            <p className="text-xl">Home</p>
+            <p className="text-xl hover:text-slate-300">Home</p>
           </Link>
           <Link to="/about" className="mt-2 md:mt-0">
-            <p className="text-xl">About</p>
+            <p className="text-xl hover:text-slate-300">About</p>
           </Link>
         </div>
         <div className="flex-1 flex justify-center items-center">
@@ -65,7 +65,7 @@ function NavBar() {
           } md:flex flex-col md:flex-row md:space-x-5 items-center mt-4 md:mt-0`}
         >
           <Link to="/contact" className="mt-2 md:mt-0">
-            <p className="text-xl">Contact</p>
+            <p className="text-xl hover:text-slate-300">Contact</p>
           </Link>
           <Link to="/apply" className="mt-2 md:mt-0">
             <button className="w-24 p-1 bg-orange-600 hover:bg-orange-700 rounded-md text-xl">

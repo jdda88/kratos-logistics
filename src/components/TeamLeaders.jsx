@@ -3,7 +3,8 @@ import employees from "../../employees.json";
 
 function TeamLeaders() {
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen m-4">
+    <div className="flex flex-col justify-center items-center min-h-screen mt-20 m-4">
+      <h3 className="text-3xl font-semibold mb-4 justify-center text-center">Our Team</h3>
       {employees.map((employee) => (
         <div
           key={employee.id}
@@ -17,7 +18,7 @@ function TeamLeaders() {
           <div className="flex flex-col md:ml-4">
             <h2 className="text-2xl font-semibold mb-2 text-center">{employee.name}</h2>
             <p className="text-xl m-2 text-wrap text-center">{employee.position}</p>
-            <p className="text-gray-600 m-2 text-left text-wrap">{employee.about}</p>
+            <p className="text-gray-600 m-2 text-wrap text-xl text-justify">{employee.about}</p>
           </div>
         </div>
       ))}
